@@ -9,7 +9,7 @@
   "author": "Tiisetso Tjabane",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "node-html-parser": "^1.2.8"
   }
 }
